@@ -1,2 +1,7 @@
 hllo how are you i know you are fine
+<<<<<<< HEAD
 soooo how's ur life?
+=======
+so how's your life?
+>>>>>>> vir
+superrrrrrrrr
